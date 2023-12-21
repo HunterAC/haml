@@ -1,2 +1,2 @@
-# haml
-Hunter's Attempt at a Markup Language
+# hasm
+Hunter's Attempt at Simple Markup
